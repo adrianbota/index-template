@@ -12,6 +12,7 @@ indexTemplate('Lorem {0} dolor {1} amet', 'ipsum', 'sit'); // outputs: lorem ips
 or
 
 ```javascript
+var indexTemplate = require('index-template');
 var values = ['ipsum', 'sit'];
 indexTemplate('Lorem {0} dolor {1} amet', values); // outputs: lorem ipsum dolor sit amet
 ```
