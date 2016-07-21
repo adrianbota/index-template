@@ -1,7 +1,12 @@
 # index-template
 Index based javascript templates
 
+```
+npm install --save index-template
+```
+
 ```javascript
+var indexTemplate = require('index-template');
 indexTemplate('Lorem {0} dolor {1} amet', 'ipsum', 'sit'); // outputs: lorem ipsum dolor sit amet
 ```
 or
