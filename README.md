@@ -10,3 +10,5 @@ or
 var values = ['ipsum', 'sit'];
 indexTemplate('Lorem {0} dolor {1} amet', values); // outputs: lorem ipsum dolor sit amet
 ```
+
+![](https://travis-ci.org/adrianbota/index-template.svg?branch=master "")
