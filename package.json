@@ -1,0 +1,31 @@
+{
+  "name": "index-template",
+  "version": "1.0.0",
+  "description": "Index based javascript templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianbota/index-template.git"
+  },
+  "keywords": [
+    "index",
+    "template",
+    "javascript"
+  ],
+  "author": "Adrian Bota",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianbota/index-template/issues"
+  },
+  "homepage": "https://github.com/adrianbota/index-template#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine-browser": "^1.4.0",
+    "gulp-util": "^3.0.7",
+    "phantomjs-prebuilt": "^2.1.7",
+    "webpack-stream": "^3.2.0"
+  }
+}
