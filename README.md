@@ -7,7 +7,7 @@ npm install --save index-template
 ```
 ## Load from nmpcdn
 ```
-<script src="//npmcdn.com/index-template/dist/index-template.js"></script>
+<script src="//unpkg.com/index-template/dist/index-template.js"></script>
 ```
 This will add a global function named `indexTemplate`.
 
