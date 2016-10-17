@@ -1,1 +1,0 @@
-window.indexTemplate = require('./index');

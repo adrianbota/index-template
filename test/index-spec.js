@@ -1,6 +1,6 @@
 describe('indexTemplate utility', function () {
   beforeEach(function () {
-    this.indexTemplate = require('./index');
+    this.indexTemplate = require('../src/js/main');
   });
 
   describe('Providing values as a list of parameters', function () {

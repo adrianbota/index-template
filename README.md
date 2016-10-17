@@ -1,5 +1,5 @@
 # index-template
-Index based javascript templates
+Index based javascript templates. [Try it](https://adrianbota.github.io/index-template).
 
 ## Install from NPM
 ```
